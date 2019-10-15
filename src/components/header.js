@@ -1,12 +1,12 @@
 import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
+import TuanifyLogo from "./tuanifyLogo"
 
 const Header = ({ siteTitle }) => (
   <header
     style={{
-      background: `rebeccapurple`,
-      marginBottom: `1.45rem`,
+      background: `white`,
     }}
   >
     <div
@@ -16,15 +16,15 @@ const Header = ({ siteTitle }) => (
         padding: `1.45rem 1.0875rem`,
       }}
     >
-      <h1 style={{ margin: 0 }}>
+      <h1 style={{ marginRight: "auto", marginLeft: "auto", maxHeight: 500, maxWidth: 500, }}>
         <Link
           to="/"
           style={{
-            color: `white`,
+            color: `red`,
             textDecoration: `none`,
           }}
         >
-          {siteTitle}
+          <TuanifyLogo />
         </Link>
       </h1>
     </div>
