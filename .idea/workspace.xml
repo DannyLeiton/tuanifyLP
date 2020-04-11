@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fea35dbf-10dd-4e89-bfc1-5e278cac996a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pages/QBO1410/booklet.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/URBN1504/booklet.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/async-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/async-requires.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/sync-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/sync-requires.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/QBO1410/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/QBO1410/page-data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/URBN1504/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/URBN1504/page-data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/dev-404-page/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/dev-404-page/page-data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/booklets/Rules n Recommendations Booklet 1410.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/downloads/booklets/QBO1410-booklet.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/downloads/booklets/Rules n Recommendations Booklet 1504.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/downloads/booklets/URBN1504-booklet.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/URBN1504/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/URBN1504/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/URBN1504/booklet.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/URBN1504/booklet.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -66,12 +55,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="1288" />
+          <entry key="js" value="1292" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="1288" />
+          <entry key="JavaScript" value="1292" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -119,8 +108,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/pages/URBN1504/booklet.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="644">
-                  <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+                <state relative-caret-position="511">
+                  <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
                   <folding>
                     <element signature="e#0#25#0" expanded="true" />
                   </folding>
@@ -144,8 +133,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/pages/QBO1410/booklet.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="150">
-                  <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+                <state relative-caret-position="-24">
+                  <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
                   <folding>
                     <element signature="e#0#25#0" expanded="true" />
                   </folding>
@@ -174,8 +163,8 @@
         <option value="$PROJECT_DIR$/src/pages/URBN1504.js" />
         <option value="$PROJECT_DIR$/src/pages/URBN1504/index.js" />
         <option value="$PROJECT_DIR$/src/pages/QBO1410/index.js" />
-        <option value="$PROJECT_DIR$/src/pages/URBN1504/booklet.js" />
         <option value="$PROJECT_DIR$/src/pages/QBO1410/booklet.js" />
+        <option value="$PROJECT_DIR$/src/pages/URBN1504/booklet.js" />
       </list>
     </option>
   </component>
@@ -313,7 +302,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12315000" />
+    <option name="totallyTimeSpent" value="12555000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="23" width="1920" height="1057" extended-state="6" />
@@ -436,20 +425,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/URBN1504/booklet.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/QBO1410/booklet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+        <state relative-caret-position="-24">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/QBO1410/booklet.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/URBN1504/booklet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        <state relative-caret-position="511">
+          <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
