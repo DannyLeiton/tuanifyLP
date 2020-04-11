@@ -5,6 +5,7 @@ const preferDefault = m => m && m.default || m
 
 
 exports.components = {
+  "component---cache-dev-404-page-js": hot(preferDefault(require("/Users/daniel/Desktop/Airbnb Tuanify/Tuanify Website/tuanifyLP/.cache/dev-404-page.js"))),
   "component---src-pages-404-js": hot(preferDefault(require("/Users/daniel/Desktop/Airbnb Tuanify/Tuanify Website/tuanifyLP/src/pages/404.js"))),
   "component---src-pages-booklet-js": hot(preferDefault(require("/Users/daniel/Desktop/Airbnb Tuanify/Tuanify Website/tuanifyLP/src/pages/booklet.js"))),
   "component---src-pages-index-js": hot(preferDefault(require("/Users/daniel/Desktop/Airbnb Tuanify/Tuanify Website/tuanifyLP/src/pages/index.js"))),
